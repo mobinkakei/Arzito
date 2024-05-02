@@ -1,0 +1,2 @@
+# Arzito
+ Welcome to Arzito, the decentralized application (Dapp) platform that empowers users to effortlessly create tokens, establish liquidity, and generate earnings without any coding required. With Arzito, you can seamlessly navigate through the world of decentralized finance (DeFi) using cutting-edge technologies like NEXT.JS, Solidity, Solana API, Tailwind CSS, and TypeScript. Whether you're a seasoned DeFi enthusiast or a newcomer to the space, Arzito provides intuitive tools and features to unleash your potential in the decentralized economy.
